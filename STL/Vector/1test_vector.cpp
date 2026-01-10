@@ -9,6 +9,7 @@ int main()
     {
         cout << v[i] << " "; // Output the ith element
         
+        
     }
     return 0;
 }
