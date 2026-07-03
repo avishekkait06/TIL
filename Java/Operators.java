@@ -8,7 +8,9 @@ public class Operators {
         System.out.println("divsion : " + (a + b));
         System.out.println("pre increment : " + ++a);
         System.out.println("Post increment :" + a++);
-        System.out.println("Now :" + a);
+        System.out.println("Now a:" + a);
+     
+
 
     }
 }
